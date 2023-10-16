@@ -1,0 +1,12 @@
+body {
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+  }
+  
+.container {
+	padding: 40px;
+	background: #ff0000;
+  }
+
+  .slick-slide img {
+	margin: auto;
+  }
